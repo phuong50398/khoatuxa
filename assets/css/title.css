@@ -1,0 +1,33 @@
+.name-title{
+	display: inline-block;
+	font-weight :bold;
+	font-size: 17px;
+	width: 100%;
+	color: #333;
+}
+.tab-002{
+	font-family: Arial;
+	color: #E54B6B;
+	font-weight: bold;
+	padding: 2px 10px;
+	font-size: 22px;
+	border-bottom: 4px solid #E54B6B;
+	margin-bottom: 5px;
+}
+.tab-003{
+	color: #E54B6B;
+	padding: 2px 10px;
+	margin-bottom: 5px;
+	font-weight: bold;
+	display: inline-block;
+}
+.tinlienquan >li >a{
+	color: #333;
+    text-decoration: none;
+}
+.tinlienquan >li >a:hover{
+	color: #AF2843;
+}
+.canle{
+	padding-right: 10px !important;
+}

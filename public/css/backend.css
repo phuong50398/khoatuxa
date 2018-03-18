@@ -1,0 +1,159 @@
+*{margin: 0px;padding: 0px;}
+.vd {
+    font-size: 11px;
+    font-style: italic;
+}
+.tacvu{
+    padding-left: 3px !important;
+    padding-right: 3px !important;
+}
+.user1 span.label {
+    position: absolute;
+    right: 6%;
+    top: 0%;
+}
+span.xoach {
+    cursor: pointer;
+    padding-right: 10px;
+    float: right;
+}
+.append> .row {
+    padding-top: 11px;
+}
+
+.append.row {
+    padding-bottom: 8px;
+}
+
+span.xoatl {
+    float: right;
+    padding-right: 170px;
+    cursor: pointer;
+}
+.dong4 span i {
+    font-size: 17px;
+    transition: 0.4s;
+}
+.them{
+    transition: 0.4s;
+}
+.quay{
+     
+        transform: rotate(180deg);
+}
+.nuttl {
+    float: right;
+    padding-top: 10px;
+}
+
+.texttl {
+    padding-top: 10px;
+}
+
+.khoitl {
+    padding-top: 10px;
+}
+
+.khoitl.row {
+    padding-bottom: 10px;
+}
+
+.dong4 {
+    float: right;
+}
+
+.dong4 span {
+    cursor: pointer;
+    color: #ff007f;
+    font-size: 14px;
+    padding-right: 200px;
+}
+
+.dong3 {
+    font-size: 15px;
+    padding-left: 10px;
+}
+
+.dong2 span {padding-right: 30px;}
+
+span.ngay {
+    float: right;
+    padding-right: 200px;
+}
+
+b.hoten {
+    font-size: 17px;
+}
+
+.row.user1 {
+    margin-bottom: 15px;
+    background: #fff0fe;
+    position: relative;
+}
+
+
+.baoquanh{
+    padding: 50px;
+}
+.buttonxoa{
+    border: none;
+    background-color: inherit;
+    font-size: 18px;
+    margin: 0px;
+    padding: 0px;
+}
+.buttonsua{
+    cursor: pointer!important;
+    font-size: 18px!important;
+    padding-right: 15px;
+}
+table{
+    text-align: center;
+}
+.site_title i{
+    border: none;
+}
+.control-label{
+    padding-top: 8px;
+}
+.button-themcb{
+    margin-top: 20px;
+    padding-left: 40%;
+}
+.inputanh{
+    border: dashed;
+    margin-bottom: 20px;
+    height: 100px;
+    padding: 20px 100px;
+    text-align: center;
+}
+.addimage{
+    height: 100px;
+    position: absolute;
+    margin-top: 10px;
+    font-size: 70px;
+    width: 960px;
+    padding-left: 0px;
+    padding-right: 30px;
+    opacity: 0;
+}
+.form-anh{
+    text-align: right;
+}
+th{
+    text-align: center;
+}
+.tieude{
+    text-align: left;
+    padding-left: 20px !important;
+}
+.anh{
+    position: relative;
+}
+.nutxoa{
+    position: absolute;
+    top: 0%;
+    right: 10%;
+    font-size: 20px;
+    cursor: pointer;
+}

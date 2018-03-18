@@ -1,0 +1,233 @@
+@media screen and (min-width: 1025px){
+	.canchinh1{
+		margin-left: 10px;
+	}
+	.listtin{
+		padding-right: 35px;
+	}
+}
+@media screen and (min-width: 769px) and (max-width: 991px){
+	.thongbao{
+		margin-top: 60px;
+	}
+	.ketb{
+		margin-top: 20px;
+	}
+	
+}
+@media screen and (width: 1024px){
+
+	.thongbao{
+		margin-left: 10px;
+	}
+	.col-md-12.col-xs-12.listtin{
+		margin-left: 10px;
+		padding-right: 30px;
+	}
+	.ipadsida{
+		float: right;
+	}
+	.ok1 {
+		margin-bottom: -20px !important;
+		margin-top: -60px !important;
+	}
+}
+@media screen and (max-width: 768px){
+	.col-md-12 .col-xs-12 .khoitb{
+		padding-top: 4px;
+	}
+	.thongbao{
+		padding-left: 30px;
+	}
+	.xs-pad {
+		margin-top: 10px;
+	}
+	.infomation2{
+		float: left;
+	}
+	.ok1{
+		margin: 0px !important;
+	}
+	.fb{
+		padding-left: 25px !important;
+		float: left !important;
+	}
+}
+@media screen and (max-width: 767px){
+	.tieuderight {
+		margin-top: 10px;
+	}
+	.khoi{
+		margin-top: 0px;
+	}
+	.canchinh1{
+		margin-bottom: 20px;
+	}
+	.infomation2{
+		float: left;
+	}
+	.wrap1{
+		margin-bottom: 10px;
+	}
+	.ok1{
+		margin: 0px !important;
+	}
+}
+@media screen and (max-width: 480px){
+	.khoigoccuoi{
+		display: flex;
+		padding-bottom: 10px !important;
+	}
+	.tin{
+		padding-left: 10px;
+	}
+	.kengang1{
+		    margin-bottom: 27px;
+	}
+	.srow{
+		padding: 0px;
+	}
+	.xanhduong{
+		background: #f8f8f8 !important;
+	}
+	.removepadding{
+		padding-left: 0px;
+	}
+	.esc2{
+		padding-right: 0px;
+	}
+	.anht4{
+		/* height: 81px !important; */
+		/* width: 81px !important; */
+	}
+	.dropdown-menu{
+		position: fixed;
+	}
+	.menuh li:click{
+		transform: rotate(180deg);
+	}
+	a.asinhvien img{
+		margin-bottom: 10px;
+	}
+	.tieude{
+		font-size: 18px !important;
+	}
+	.thethao{
+		margin-bottom: 10px;
+		width: 60%;
+	}
+	.tomtattin{
+		display: none;
+	}
+	b.chutiede1{
+		font-size: 14px;
+	}
+	.xs-pad{
+		margin-top: 10px;
+		margin-bottom: -10px;
+		float: left;
+		width: 60%;
+	}
+	.ngay{
+		float: left;
+	}
+	.col-md-12.col-xs-12.listtin{
+		margin-left: 10px;
+	}
+	.khoigoccuoi > img{
+		width: 100%;
+		margin-bottom: 10px;
+		/* margin-right: 15px; */
+		float: left;
+	}
+	#school-info{
+		padding: 0px;
+	}
+	.thongtin{
+		padding-left: 30px;
+	}
+	.footer-strong{
+		font-size: 18px;
+	}
+	.kengang{
+		margin-top: 10px;
+	}
+	.ttvh{
+		width: 40%;
+		padding-left: 0px;
+		float: left;
+	}
+	.ttvh2 > img{
+		width: 85%;
+		margin-bottom: 20px;
+	}
+	.delpad{
+		padding-right: 0px;
+		padding-left: 0px;
+	}
+	.anhttvh{
+		width: 95%;
+	}
+	.respon1{
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+	.khoitb{
+		padding-right: 0px;
+	}
+	.canduoi > img{
+		height: 60px;
+	}
+	.col-md-12.col-xs-12.col-sm-12.khoigoccuoi{
+		text-align: left;
+	}
+}
+@media screen and (max-width: 375px){
+	p.list{
+		font-size: 13px !important;
+	}
+	.tieude{
+		font-size: 13px !important;
+	}
+	span.kedoc.kd{
+		padding-top: 0px;
+	}
+	.col-md-12.col-xs-12.col-sm-12.khoigoccuoi{
+		text-align: left;
+	}
+	.khoigoccuoi > img{
+		float: left;
+		/* margin-right: 15px; */
+	}
+	.khoigoccuoi > span{
+		float: initial;
+	}
+	.kengang{
+		margin-top: 10px;
+	}
+	.anhttvh{
+		width: 97%;
+	}
+}
+@media screen and (max-width: 360px){
+	.khoigoccuoi > span{
+		font-weight: bold;
+		float: initial;
+	}
+	.kengang{
+		margin-top: 10px;
+	}
+	.xs-pad{
+		margin-top: 0px;
+		padding-right: 0px;
+	}
+	.thethao{
+		margin-top: 0px;
+		padding-right: 0px;
+	}
+	@media screen and (max-width: 320px){
+		.fb{
+			padding-left: 5px !important;
+		}
+	}
+}
